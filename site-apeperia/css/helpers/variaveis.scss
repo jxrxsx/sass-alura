@@ -1,0 +1,8 @@
+// variáveis do sass (esse comentário não aparece no .css)
+$cor-padrao: #c24e4b;
+$cor-auxiliar: #1e2c35;
+$cor-branca: #ffffff;
+$std-font-size: 16px;
+$ponto-de-quebra: 980px;
+
+$mq-mobile: '(max-width: #{$ponto-de-quebra})';

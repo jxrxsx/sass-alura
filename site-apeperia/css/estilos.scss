@@ -1,0 +1,18 @@
+$sprite-spacing: 2px;
+$plataformas-spacing: 10px;
+@import 'sprite/*.png';
+@import 'plataformas/*.png';
+
+@import 'base/normalize';
+
+@import 'helpers/variaveis';
+@import 'helpers/mixins';
+
+@import 'layout/geral';
+@import 'layout/header';
+@import 'layout/destaque';
+@import 'layout/sobre';
+@import 'layout/planos';
+@import 'layout/blog';
+@import 'layout/contato';
+@import 'layout/footer';
